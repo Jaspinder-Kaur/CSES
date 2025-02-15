@@ -1,2 +1,2 @@
-# CSES-
+# CSES
 CSES Problem Sets
